@@ -1,2 +1,2 @@
-# DiverseQG
+# Diverse Question Generation
 Available soon!
